@@ -21,7 +21,7 @@ I am a first-year data engineering student studying at UTM, and I always try to 
 
 # Project
 - Design Thinking Project
--Lift Controller Simulation by using Deeds
+- Lift Controller Simulation by using Deeds
 
 # Contact
 Email:jingjie545@gmail.com
