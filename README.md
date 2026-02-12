@@ -1,16 +1,25 @@
 ## Hi there 👋
+Welcome to my e-portfolio
+# About me
 
-<!--
-**jingjie06/jingjie06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year data engineering student studying at UTM, and I always try to learn and be prepared for challenges.
 
-Here are some ideas to get you started:
+# Education
+- Bachelor Degree in Computer Science (Data Engineering),UTM
+2025 – Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Physical Science in UTM Space
+2024 – 2025
+
+- High School Muar
+2019-2024
+
+# 🛠️ Skills
+- C++
+- Problem-solving
+- commnunication and collaboration
+
+# Project
+-https://github.com/jingjie06/lift-controller-digital-logic
+
+
