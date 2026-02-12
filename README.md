@@ -4,7 +4,7 @@ Welcome to my e-portfolio
 
 I am a first-year data engineering student studying at UTM, and I always try to learn and be prepared for challenges.
 
-# Education
+# 🎓 Education
 - Bachelor Degree in Computer Science (Data Engineering),UTM
 2025 – Present
 
@@ -20,6 +20,15 @@ I am a first-year data engineering student studying at UTM, and I always try to 
 - commnunication and collaboration
 
 # Project
--https://github.com/jingjie06/lift-controller-digital-logic
+- Design Thinking Project
+-Lift Controller Simulation by using Deeds
+
+# Contact
+Email:jingjie545@gmail.com
+Linkedin:https://www.linkedin.com/in/wong-jing-jie-9b2578389/
+
+
+
+
 
 
